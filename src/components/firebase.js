@@ -13,4 +13,4 @@ import 'firebase/compat/firestore';
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
-export const firebase=firebase.firestore();
+export const Firestore=firebase.firestore();
